@@ -1,0 +1,28 @@
+Row Labels,Sum of Sales,,Row Labels,Sum of Sales,,Row Labels
+Atlantic,271205.101,,Furniture,151813.54,,(blank)
+Northwest Territories,275140.7555,,Office Supplies,383538.34,,(blank)
+Nunavut,36306.498,,Technology,561675.807,,Atlantic
+Ontario,81727.7725,,Grand Total,1097027.687,,Furniture
+Prarie,86646.136,,,,,Office Supplies
+West,346001.424,,,,,Technology
+Grand Total,1097027.687,,,,,Northwest Territories
+,,,,,,Furniture
+,,,,,,Office Supplies
+,,,,,,Technology
+,,,,,,Nunavut
+,,,,,,Furniture
+,,,,,,Office Supplies
+,,,,,,Technology
+,,,,,,Ontario
+,,,,,,Furniture
+,,,,,,Office Supplies
+,,,,,,Technology
+,,,,,,Prarie
+,,,,,,Furniture
+,,,,,,Office Supplies
+,,,,,,Technology
+,,,,,,West
+,,,,,,Furniture
+,,,,,,Office Supplies
+,,,,,,Technology
+,,,,,,Grand Total
